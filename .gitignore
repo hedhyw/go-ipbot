@@ -2,3 +2,4 @@ dist/*
 !.gitkeep
 go.sum
 .directory
+env/secret.sh
