@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/hedhyw/ip-bot/internal/ip"
+	"github.com/hedhyw/go-ipbot/internal/ip"
 
 	"github.com/go-telegram-bot-api/telegram-bot-api"
-	"github.com/hedhyw/ip-bot/internal/config"
-	"github.com/hedhyw/ip-bot/internal/interfaces"
+	"github.com/hedhyw/go-ipbot/internal/config"
+	"github.com/hedhyw/go-ipbot/internal/interfaces"
 	"github.com/labstack/gommon/log"
 )
 

@@ -4,7 +4,7 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/caarlos0/env"
-	"github.com/hedhyw/ip-bot/internal/config/model"
+	"github.com/hedhyw/go-ipbot/internal/config/model"
 )
 
 var tgConf model.TGConfig

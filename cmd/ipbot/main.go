@@ -3,8 +3,8 @@ package main
 import (
 	"sync"
 
-	"github.com/hedhyw/ip-bot/internal/config"
-	"github.com/hedhyw/ip-bot/internal/tg"
+	"github.com/hedhyw/go-ipbot/internal/config"
+	"github.com/hedhyw/go-ipbot/internal/tg"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -3,8 +3,8 @@ package ip
 import (
 	"net/http"
 
-	"github.com/hedhyw/ip-bot/internal/config"
-	"github.com/hedhyw/ip-bot/internal/interfaces"
+	"github.com/hedhyw/go-ipbot/internal/config"
+	"github.com/hedhyw/go-ipbot/internal/interfaces"
 )
 
 type ifConfig struct {
