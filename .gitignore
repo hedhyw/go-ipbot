@@ -1,0 +1,4 @@
+dist/*
+!.gitkeep
+go.sum
+.directory
